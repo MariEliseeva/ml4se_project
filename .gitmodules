@@ -1,0 +1,3 @@
+[submodule "contracode"]
+	path = contracode
+	url = https://github.com/myutman/contracode
