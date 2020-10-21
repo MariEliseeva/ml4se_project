@@ -1,3 +1,6 @@
 [submodule "contracode"]
 	path = contracode
 	url = https://github.com/myutman/contracode
+[submodule "code2seq"]
+	path = code2seq
+	url = https://github.com/iisuslik43/code2seq
